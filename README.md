@@ -10,7 +10,7 @@ Threads allow concurrent execution of code. In Android, the main thread
 (also called the UI thread) handles all UI operations.
 If you perform long-running operations on this thread, the app becomes unresponsive. To prevent this, Android developers use background threads.
 
-https://github.com/shaurya127/ThreadPoolKotlin/issues/1#issue-2266989239
+![screenshot] (https://github.com/shaurya127/ThreadPoolKotlin/issues/1#issue-2266989239)
 
 ## Ways to Implement
 
