@@ -6,11 +6,9 @@ file I/O without blocking the UI thread, ensuring smooth user interaction.
 
 ## Basics of Threading
 
-# Threads allow concurrent execution of code. In Android, the main thread
-
-# (also called the UI thread) handles all UI operations.
-
-# If you perform long-running operations on this thread, the app becomes unresponsive. To prevent this, Android developers use background threads.
+Threads allow concurrent execution of code. In Android, the main thread
+(also called the UI thread) handles all UI operations.
+If you perform long-running operations on this thread, the app becomes unresponsive. To prevent this, Android developers use background threads.
 
 ## Ways to Implement
 
